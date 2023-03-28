@@ -6,4 +6,5 @@ phases:
         - pwd
 artifacts:
   files:
-    - '**/*'
+    - index.html
+    - style.css
