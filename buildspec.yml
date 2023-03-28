@@ -5,6 +5,8 @@ phases:
         - ls -al
         - pwd
 artifacts:
+  files:
+    - '**/*'
   secondary-artifacts:
     webapp:
       base-directory: packages/website/dist
