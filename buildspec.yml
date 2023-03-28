@@ -4,3 +4,6 @@ phases:
         commands:
         - ls -al
         - pwd
+artifacts:
+  files:
+    - '**/*'
